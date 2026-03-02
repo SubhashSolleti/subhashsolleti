@@ -33,7 +33,7 @@
 
 ### 🌐 Portfolio & Contact
 
-- 💼 Portfolio: **https://subhashsolleti.github.io/**
+- 💼 Portfolio: **https://subhashsolleti.vercel.app//**
 - 📬 Email: **solletisubhash24@gmail.com**
 
 ---
