@@ -34,7 +34,7 @@
 ### 🌐 Portfolio & Contact
 
 - 💼 Portfolio: **https://subhashsolleti.vercel.app//**
-- 📬 Email: **solletisubhash24@gmail.com**
+- 📬 Email: **chaitanyasubhash.solleti@gmail.com**
 
 ---
 
